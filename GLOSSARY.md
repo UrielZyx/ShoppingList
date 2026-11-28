@@ -33,7 +33,7 @@ A user with access to a list who may change its items.
 _Avoid_: Collaborator, contributor, member
 
 **Invite link**:
-A link that grants access to a list when redeemed by a signed-in user. It can also let in a person who has no account yet.
+A link that grants access to a list when redeemed by a signed-in user.
 _Avoid_: Share link, invitation code
 
 ### Conversation and history
