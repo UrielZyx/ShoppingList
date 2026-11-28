@@ -20,16 +20,20 @@ _Avoid_: Bought, checked, done, ticked
 
 ### People and access
 
+**User**:
+A person with an account who can sign in. Only people who have been allowed in can have an account. Owner and Editor are roles a user has on a particular list.
+_Avoid_: Account, member, profile
+
 **Owner**:
-The person who created a list. Manages who has access to it and can delete it.
+The user who created a list. Manages who has access to it and can delete it.
 _Avoid_: Admin, creator
 
 **Editor**:
-A person with access to a list who may change its items.
+A user with access to a list who may change its items.
 _Avoid_: Collaborator, contributor, member
 
 **Invite link**:
-A link that grants access to a list when redeemed by a signed-in person.
+A link that grants access to a list when redeemed by a signed-in user.
 _Avoid_: Share link, invitation code
 
 ### Conversation and history
